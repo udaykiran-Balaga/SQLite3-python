@@ -48,3 +48,12 @@ python your_script_name.py
 Visualize Tables:
 
 With the SQLite extension, you can easily visualize tables, view schema details, and manage records without leaving VS Code.
+
+## Using the SQLite Module in Python
+The project includes a sqlite.py file that defines various database operations. You can import this module into your Python scripts to perform database tasks efficiently.
+
+Importing the Module
+To use the module, follow these steps:
+
+Ensure the sqlite.py file is in the same directory as your main script or is accessible in your Python path.
+Import the module using the import statement.
